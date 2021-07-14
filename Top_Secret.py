@@ -70,7 +70,7 @@ def fase_3():
 def fase_4():
     sys.stdout.write('\n')
     sys.stdout.flush()
-    phrases = [" Do you even know what are FUCKING RULES??? "," All the FUCKING RULES are invented by people like you!!! "," This means only one thing... "," If you don't want to follow the rules of others, but you are following them (money for example), YOU ARE A FUCKING IDIOT! ","\n THERE ARE NO LEGAL OR ILLEGAL THINGS IN THE WHOLE LIFE! "," The only thing you should follow is: "," Live and let live others, don't bother them!!! ","\n FUCKING IDIOTS!!! "," I HATE YOUR FUCKING RULES!!! "," DON'T BOTHER ME WITH YOUR FUCKING RULES ANYMORE!!! ","\n One last question... ","\n Do you want to continue follow the money rule? "]
+    phrases = [" Do you even know what are FUCKING RULES??? "," All the FUCKING RULES are invented by people like you!!! "," This means only one thing... "," If you don't want to follow the rules of others, but you are following them (money for example), YOU ARE A FUCKING IDIOT! ","\n THERE ARE NO LEGAL OR ILLEGAL THINGS IN THE WHOLE LIFE! "," The only thing you should follow is: "," Live and let live others, don't bother them!!! ","\n FUCKING IDIOTS!!! "," I HATE YOUR FUCKING RULES!!! "," DON'T BOTHER ME WITH YOUR FUCKING RULES ANYMORE!!! ","\n One last question... ","\n Do you want to continue follow the rules of others? "]
     delay_btw_phrases = [5,3,2,6,1,1,1,1,1,8,1,0]
     delay_btw_chars = [0.08,0.08,0.08,0.08,0.15,0.15,0.08,0.08,0.08,0.08,0.08,0.08]
     id_chars = 0
